@@ -1,17 +1,15 @@
-# Modified from:
-#     https://github.com/github/gitignore/blob/master/Unity.gitignore
 
-/[Ll]ibrary/
-/[Uu]serSettings/
-[Tt]emp/
-[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Library/
+/UserSettings/
+Temp/
+Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
 Library/il2cpp_cache/linkresult_2C50EE190DA0947CA66A5B19496B2DC0/build.bc
 # Uncomment this line if you wish to ignore the asset store tools plugin
-# [Aa]ssets/AssetStoreTools*
+#Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
